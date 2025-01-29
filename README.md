@@ -2,7 +2,7 @@
 
 📈 Data Analytics & Data Science || 🌱 Green Engineering || 🔥 Applied physics || 🧐 Applied Mathematics
 
-# ✨About Me:
+# 📝About Me:
 I'm physicist engineer with a passion for mathematics models and data analytics. Currently pursing a master's degree in applied mathemtamics. My proyects explore the intersection between the physics and data science, I'm seeking answers to real-world question trhough models building and data analytics of large data sets.
 
 💥I'm currently working on my portafolio<br> 🎉 I'm currently learning about AWS - cloud machine learning and MLOps<br>🔍️ Ask me about mathematics models and machine learning models<br> 💡 Fun fact 
