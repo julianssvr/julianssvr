@@ -1,5 +1,6 @@
 <h1 align="left">Hi 👋, I'm Julián Sierra Salamanca</h1>
-<h3 align="left">📝About Me:<br>I'm physicist engineer with a passion for mathematics models and data analytics. Currently pursing a master's degree in applied mathemtamics. My proyects explore the intersection between the physics and data science, I'm seeking answers to real-world question trhough models building and data analytics of large data sets.</h3>
+<h3 align="left">📝About Me:</h3>
+I'm physicist engineer with a passion for mathematics models and data analytics. Currently pursing a master's degree in applied mathemtamics. My proyects explore the intersection between the physics and data science, I'm seeking answers to real-world question trhough models building and data analytics of large data sets.
 
 - 🔭 I’m currently working on **My portafolio**
 
